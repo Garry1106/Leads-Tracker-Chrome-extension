@@ -21,7 +21,7 @@ The **Leads Tracker Chrome Extension** is a tool designed to help users efficien
 ## Installation
 1. **Clone the Repository**
     ```bash
-    git clone (https://github.com/Garry1106/Leads-Tracker-Chrome-extension)
+    git clone https://github.com/Garry1106/Leads-Tracker-Chrome-extension.git
     ```
 2. **Open Chrome Extensions Page**
     - Open Google Chrome.
