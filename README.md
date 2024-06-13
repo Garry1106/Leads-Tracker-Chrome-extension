@@ -3,6 +3,15 @@
 ## Overview
 The **Leads Tracker Chrome Extension** is a tool designed to help users efficiently manage and track their leads. This extension allows users to save leads directly to their local storage and capture the current window tab for quick access. Built using HTML, CSS, and JavaScript, this extension leverages the power of local storage to provide a seamless and persistent user experience.
 
+## Screenshots
+
+![5](https://github.com/Garry1106/Leads-Tracker-Chrome-extension/assets/101012709/4535f7c4-6881-430d-82c1-07e1413b7e5f)
+![1](https://github.com/Garry1106/Leads-Tracker-Chrome-extension/assets/101012709/fee66bc6-e703-417e-8452-6221256c82cf)
+![3](https://github.com/Garry1106/Leads-Tracker-Chrome-extension/assets/101012709/90395273-97e8-41eb-9272-ed8ef308d877)
+![2](https://github.com/Garry1106/Leads-Tracker-Chrome-extension/assets/101012709/560df7a3-0622-4bba-be4b-50888f76fc0c)
+
+
+
 ## Features
 - **Save Leads**: Quickly save leads directly from the Chrome extension.
 - **Window Tab Capture**: Save the current browser tab along with the lead information for easy reference.
