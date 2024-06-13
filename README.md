@@ -12,7 +12,7 @@ The **Leads Tracker Chrome Extension** is a tool designed to help users efficien
 ## Installation
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/leads-tracker-extension.git
+    git clone (https://github.com/Garry1106/Leads-Tracker-Chrome-extension)
     ```
 2. **Open Chrome Extensions Page**
     - Open Google Chrome.
@@ -33,23 +33,16 @@ The **Leads Tracker Chrome Extension** is a tool designed to help users efficien
 
 ## Code Structure
 - `manifest.json`: The manifest file containing the extension's metadata.
-- `popup.html`: The HTML file for the extension's popup interface.
-- `popup.css`: The CSS file for styling the popup interface.
-- `popup.js`: The JavaScript file for handling the extension's functionality.
+- `index.html`: The HTML file for the extension's popup interface.
+- `style.css`: The CSS file for styling the popup interface.
+- `script.js`: The JavaScript file for handling the extension's functionality.
 
 ## Contributing
 We welcome contributions to improve the Leads Tracker Chrome Extension. If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact [Gaurav Divekar](mailto:gauravdivekar1106@gmail.com).
 
 ---
 
-Thank you for using the Leads Tracker Chrome Extension! We hope it helps you manage your leads more effectively. Happy tracking!
 
----
-
-Feel free to customize this README to better fit your project's specifics.
